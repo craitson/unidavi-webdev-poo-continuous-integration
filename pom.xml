@@ -8,6 +8,11 @@
     <artifactId>unidavi-webdev-poo-continuous-integration</artifactId>
     <version>00.00.01-SNAPSHOT</version>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
