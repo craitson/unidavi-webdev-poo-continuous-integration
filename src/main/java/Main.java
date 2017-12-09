@@ -4,9 +4,6 @@ public class Main {
 
         System.out.println("Ok");
         System.out.println("Ok");
-
-
-
     }
 
 }
