@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="unidavi-webdev-poo-continuous-integration" target="1.5" />
+      <module name="unidavi-webdev-poo-continuous-integration" target="1.7" />
       <module name="unidaviwebdevpoocontinuousintegration" target="1.5" />
     </bytecodeTargetLevel>
   </component>

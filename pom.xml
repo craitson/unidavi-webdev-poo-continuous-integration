@@ -6,7 +6,19 @@
 
     <groupId>br.edu.unidavi</groupId>
     <artifactId>unidavi-webdev-poo-continuous-integration</artifactId>
-    <version>00.00.01-SNAPSHOT</version>
+    <version>00.00.02-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
